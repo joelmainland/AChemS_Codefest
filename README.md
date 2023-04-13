@@ -10,6 +10,8 @@ This is inspired by the great project over at [TidyTuesday](https://github.com/r
 
 The National Health and Nutrition Examination Survey is a program of studies designed to assess the health and nutritional status of adults and children in the United States. The survey is unique in that it combines interviews and physical examinations. The 2013-2014 dataset included measures of smell and taste as well as demographic, socioeconomic, dietary, and health-related questions. The examination component consists of medical, dental, and physiological measurements, as well as laboratory tests administered by highly trained medical personnel.
 
+Citation: Centers for Disease Control and Prevention (CDC). National Center for Health Statistics (NCHS). National Health and Nutrition Examination Survey Data. Hyattsville, MD: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2013, https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2013.
+
 ## In person events at AChemS 2023
 
 Orientation: Wednesday, April 19th at 4 pm (Great Egret): Learn about the NHANES dataset. We will provide sample code and access to the smell and taste datasets. More NHANES datasets can be downloaded to examine how smell and taste interact with other metrics. The goal is to visualize the data–anything from reproducing a graph to an interactive app.
